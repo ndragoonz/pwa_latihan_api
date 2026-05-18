@@ -1,0 +1,14 @@
+{
+  "employees": [
+    {"id":1,"first_name":"Teodoro","last_name":"Grishankov","email":"tgrishankov0@oaic.gov.au","department":"Design","position":"Help Desk Operator","phone":"+86 198 492 0245","avatar":"https://robohash.org/etnihilvoluptas.png?size=50x50&set=set1","salary":9905847,"joined_date":"2022-12-03"},
+    {"id":2,"first_name":"Doralynne","last_name":"Clarson","email":"dclarson1@tuttocitta.it","department":"Engineering","position":"Analog Circuit Design manager","phone":"+48 473 521 8956","avatar":"https://robohash.org/eteaexercitationem.png?size=50x50&set=set1","salary":7831353,"joined_date":"2020-01-21"},
+    {"id":3,"first_name":"Dore","last_name":"Wyper","email":"dwyper2@stanford.edu","department":"Design","position":"Programmer I","phone":"+63 347 833 2839","avatar":"https://robohash.org/suscipiteosillum.png?size=50x50&set=set1","salary":7951517,"joined_date":"2022-12-29"},
+    {"id":4,"first_name":"Rochester","last_name":"Larter","email":"rlarter3@latimes.com","department":"Design","position":"Civil Engineer","phone":"+62 900 164 1827","avatar":"https://robohash.org/facilissedipsam.png?size=50x50&set=set1","salary":5321899,"joined_date":"2022-06-09"},
+    {"id":5,"first_name":"Sanson","last_name":"Linturn","email":"slinturn4@barnesandnoble.com","department":"Marketing","position":"Programmer Analyst II","phone":"+62 293 614 2187","avatar":"https://robohash.org/architectosedeos.png?size=50x50&set=set1","salary":9435406,"joined_date":"2023-05-07"},
+    {"id":6,"first_name":"Randolph","last_name":"Thornthwaite","email":"rthornthwaite5@psu.edu","department":"Product","position":"VP Product Management","phone":"+62 682 210 6004","avatar":"https://robohash.org/quiaetea.png?size=50x50&set=set1","salary":7650871,"joined_date":"2022-10-29"},
+    {"id":7,"first_name":"Gallagher","last_name":"Hughs","email":"ghughs6@un.org","department":"HR","position":"Civil Engineer","phone":"+86 404 190 5717","avatar":"https://robohash.org/rationeconsequatura.png?size=50x50&set=set1","salary":9883779,"joined_date":"2025-10-26"},
+    {"id":8,"first_name":"Adam","last_name":"Rizzotto","email":"arizzotto7@infoseek.co.jp","department":"HR","position":"Compensation Analyst","phone":"+31 551 493 3092","avatar":"https://robohash.org/quamadipiscicommodi.png?size=50x50&set=set1","salary":6930915,"joined_date":"2021-11-19"},
+    {"id":9,"first_name":"Zachariah","last_name":"O'Donnelly","email":"zodonnelly8@wikimedia.org","department":"Design","position":"Account Executive","phone":"+7 225 604 6581","avatar":"https://robohash.org/etmaioresvoluptas.png?size=50x50&set=set1","salary":7549660,"joined_date":"2020-11-10"},
+    {"id":10,"first_name":"Clark","last_name":"Scuse","email":"cscuse9@netscape.com","department":"Finance","position":"Analog Circuit Design manager","phone":"+60 455 813 5108","avatar":"https://robohash.org/consequatursequibeatae.png?size=50x50&set=set1","salary":7871714,"joined_date":"2024-08-04"}
+]
+}
